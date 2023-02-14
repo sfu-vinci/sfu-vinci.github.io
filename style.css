@@ -1,0 +1,160 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:100,400);
+@import url(http://fonts.googleapis.com/css?family=Raleway:400);
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  padding: 0;
+  margin: 0;
+  background-color: #fff;
+}
+
+a {
+  color: #858B92;
+}
+
+.photo {
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+  margin-bottom: 1rem;
+}
+
+.header {
+  margin: 3% 0;
+  text-align: center;
+}
+
+.logo {
+  width: 60%;
+  max-width: 600px;
+  margin-bottom: 2%;
+}
+
+.middle {
+  max-width: 1000pt;
+  margin: auto;
+  text-align: center;
+}
+
+.header .title {
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-size: 45pt;
+  display: inline-block;
+  margin-right: 20pt;
+  margin-bottom: 20pt;
+  width: 440pt;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.header .title .fade {
+  color: #858B92;
+  border-left: 2px solid #858B92;
+  border-right: 2px solid #858B92;
+  margin-right: 0.1em;
+  transition: width 1s, border-width 1s;
+  vertical-align: top;
+  display: inline-block;
+  text-align: left;
+  width: 7.1em;
+  overflow: hidden;
+}
+
+.header:hover .title .fade {
+  width: 0;
+  border-width: 1;
+}
+
+.header .about {
+  display: inline-block;
+  text-align: left;
+  max-width: 350pt;
+}
+
+.main {
+  max-width: 1200pt;
+  margin: auto;
+  text-align: center;
+}
+
+.lab, .map {
+  display: inline-block;
+  width: 200pt;
+  height: 200pt;
+  margin: 10pt;
+  text-align: center;
+  position: relative;
+  vertical-align: top;
+  color: black;
+  transition: box-shadow 0.3s;
+}
+
+.lab.a {
+  background: #2194BA;
+  background: linear-gradient(135deg, #2194BA 0%,#0B799A 100%);
+}
+
+.lab.b {
+  background: #EDAA36;
+  background: linear-gradient(135deg, #EDAA36 0%,#EE8925 100%);
+}
+
+.lab.c {
+  background: #D85128;
+  background: linear-gradient(135deg, #e33939 0%,#C12E27 100%);
+}
+
+.lab:hover, .map:hover {
+  box-shadow: #bbb 2pt 2pt 3pt;
+}
+
+.lab .logo {
+  position: absolute;
+  top: 20pt;
+  left: 50pt;
+  width: 200pt;
+}
+
+.lab .content, .map .content {
+  display: inline-block;
+  position: absolute;
+  background-color: white;
+  padding: 10pt;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.content .name {
+  font-weight: 700;
+  border-top: 1px solid black;
+  display: inline-block;
+  padding: 5pt;
+  text-transform: uppercase;
+  font-size: 10pt;
+}
+
+.lab .about {
+  display: none;
+}
+
+.footer {
+  min-height: 100pt;
+}
+
+@media screen and (max-width: 660pt) {
+  .map, .map iframe {
+    width: 300pt;
+  }
+
+  .middle {
+    max-width: 320pt;
+  }
+
+  .header .title {
+    width: 320pt;
+    font-size: 30pt;
+    text-align: center;
+  }
+}
