@@ -1,49 +1,49 @@
 name,title,department,tags,webpage,photo,area
-Ali Mahdavi Amiri,Assistant Professor,Computing Science,,https://www.sfu.ca/~amahdavi/,,Visual Computing
-Andrea Tagliasacchi,Associate Professor,Computing Science,,https://taiya.github.io,,Visual Computing
-Angel Chang,Assistant Professor,Computing Science,,https://angelxuanchang.github.io/,angel_xuan_chang.jpg,Visual Computing
-Angelica Lim,Assistant Professor,Computing Science,,https://www.rosielab.ca/,angelica_lim.jpg,"Visual Computing, Interactive Computing"
-Bernhard Riecke,Professor,SIAT,,http://ispace.iat.sfu.ca/riecke/,,"Visual Computing, Interactive Computing, Social Implications, Virtual Reality"
-Carman Neustaedter,Professor,FCAT Dean's Office & SIAT,,http://clab.iat.sfu.ca,,"Interactive Computing, Social Implications"
-Chelsea Rosenthal,Assistant Professor,Philosophy,,,,Social Implications
-Diane Gromala,Professor,SIAT,,,,Domain-Specific Applications
-Don Estep,Professor,Statistics,,,,Visual Computing
-Edward Park,Professor,MSE,,,,Interactive Computing
-Eugene Fiume,Professor,FAS Dean's Office & Computing Science,,https://www.dgp.toronto.edu/~elf/,eugene_fiume.jpg,Visual Computing
-Frederik Lesage,Associate Professor,School of Communication,,https://imaginativemethods.com/,,"Social Implications, Visual Methodologies and Epistemologies"
-Fred Popowich,Professor,Computing Science,,,,Domain-Specific Applications
-Ghassan Hamarneh,Professor,Computing Science,,www.medicalimageanalysis.com,,"Visual Computing, Domain-Specific Applications"
-Hang Ma,Assistant Professor,Computing Science ,,https://www2.cs.sfu.ca/~hangma/,hang_ma.jpg,Visual Computing
-Jiguo Cao,Professor,Statistics,,https://www.sfu.ca/science/stat/cao/,,Visual Computing
-KangKang Yin,Associate Professor,Computing Science,,https://www.cs.sfu.ca/~kkyin/,kangkang_yin.jpg,Visual Computing
-Ke Li,Assistant Professor,Computing Science,,https://www.sfu.ca/~keli/,ke_li.jpg,"Visual Computing, Domain-Specific Applications"
-Lawrence Kim,Assistant Professor,Computing Science,,https://www.lhkim.com/,,Interactive Computing
-Lesley Shannon,Professor,Engineering Science,,,,Domain-Specific Applications
-Lyn Bartram,Professor,SIAT,,https://www.sfu.ca/~lyn,,"Interactive Computing, Social Implications"
-Maite Taboada,Professor,Linguistics,,http://www.sfu.ca/~mtaboada/,,Social Implications
-Manolis Savva,Assistant Professor,Computing Science,,https://msavva.github.io/,manolis_savva.jpg,Visual Computing
-Max Libbrecht,Assistant Professor,Computing Science,,http://libbrechtlab.com,max_libbrecht.jpg,Domain-Specific Applications
-Michelle Levy,Professor,English,,,,Domain-Specific Applications
-Mo Chen,Assistant Professor,Computing Science,,,mo_chen.jpg,Visual Computing
-Oliver Schulte,Professor,Computing Science,,http://www.cs.sfu.ca/~oschulte/,oliver_schulte.jpg,Visual Computing
-Parmit Chilana,Associate Professor,Computing Science,co-director,https://ixlab.cs.sfu.ca/,parmit_chilana.jpg,Interactive Computing
-Parvaneh Saeedi,Associate Professor,Engineering Science,,,,Visual Computing
-Paul Tupper,Professor,Mathematics,,,,Visual Computing
-Philippe Pasquier,Professor,SIAT,,https://metacreation.net/,,"Interactive Computing, Domain-Specific Applications"
-Richard Zhang,Professor,Computing Science ,,https://www2.cs.sfu.ca/~haoz/,hao_zhang.jpg,Visual Computing
-Robert Hogg,Professor,Health Science,,,,Domain-Specific Applications
-Ron Wakkary,Professor,SIAT,,http://eds.siat.sfu.ca,,Interactive Computing
-Saba Alimadadi,Assistant Professor,Computing Science,,http://www.sfu.ca/~saba/,,Software engineering
-Sheelagh Carpendale,Professor,Computing Science,,,sheelagh_carpendale.jpg,Interactive Computing
-Steve DIPaola,Professor,SIAT,,ivizlab.sfu.ca,,"Visual Computing, Interactive Computing, Social Implications"
-Steven Weldon,Professor,Political Science,,http://www.sfu.ca/~sweldon/,,Social Implications
-Sun-ha Hong,Assistant Professor,CMNS,,http://sunhahong.org,,Social Implications
-Tenzin Doleck,Assistant Professor,Education,,https://www.sfu.ca/education/faculty-research/faculty-directory/faculty-members/tdoleck.html,,"Interactive Computing, Social Implications"
-Terri Griffith,Professor,Beedie,,https://terrigriffith.com/,,"Interactive Computing, Domain-Specific Applications, Technology & Work"
-Wendy Chun,Professor,CMNS,,https://digitaldemocracies.org/,,"Visual Computing, Interactive Computing, Social Implications"
-Will Odom,Assistant Professor,SIAT,,https://willodom.com/portfolio/,,"Interactive Computing, Social Implications"
-Woo Soo Kim,Associate Professor,MSE,,,,Interactive Computing
-Wolfgang Stuerzlinger,Professor,SIAT,,https://vvise.iat.sfu.ca,,Interactive Computing
-Xing-Dong Yang,Associate Professor,Computing Science ,,http://www.sfu.ca/~xingdong/,,Interactive Computing
-Yagiz Aksoy,Assistant Professor,Computing Science ,,http://yaksoy.github.io,yagiz_aksoy.jpg,"Visual Computing, Domain-Specific Applications"
-Yasutaka Furukawa,Associate Professor,Computing Science,co-director,https://www.cs.sfu.ca/~furukawa,yasu_furukawa.jpg,Visual Computing
+Ali Mahdavi Amiri,Assistant Professor,CS,,https://www.sfu.ca/~amahdavi/,,VC
+Andrea Tagliasacchi,Associate Professor,CS,,https://taiya.github.io,,VC
+Angel Chang,Assistant Professor,CS,,https://angelxuanchang.github.io/,angel_xuan_chang.jpg,VC
+Angelica Lim,Assistant Professor,CS,,https://www.rosielab.ca/,angelica_lim.jpg,"VC,IC"
+Bernhard Riecke,Professor,SIAT,,http://ispace.iat.sfu.ca/riecke/,,"VC,IC,SI"
+Carman Neustaedter,Professor,SIAT,"steering committee,FCAT dean",http://clab.iat.sfu.ca,,"IC,SI"
+Chelsea Rosenthal,Assistant Professor,Philosophy,,https://chelsearosenthal.com/,,SI
+Diane Gromala,Professor,SIAT,,https://painstudieslab.com/,,DA
+Don Estep,Professor,Statistics,,http://www.sfu.ca/~destep/,,VC
+Edward Park,Professor,MSE,,https://www.sfu.ca/research/facilities/weartech-labs,,IC
+Eugene Fiume,Professor,CS,FAS dean,https://www.dgp.toronto.edu/~elf/,eugene_fiume.jpg,VC
+Frederik Lesage,Associate Professor,CMNS,,https://imaginativemethods.com/,,SI
+Fred Popowich,Professor,CS,,http://www.sfu.ca/~popowich/public/Home.html,,DA
+Ghassan Hamarneh,Professor,CS,,https://www.medicalimageanalysis.com,,"VC,DA"
+Hang Ma,Assistant Professor,CS,,https://www2.cs.sfu.ca/~hangma/,hang_ma.jpg,VC
+Jiguo Cao,Professor,Statistics,,https://www.sfu.ca/science/stat/cao/,,VC
+KangKang Yin,Associate Professor,CS,,https://www.cs.sfu.ca/~kkyin/,kangkang_yin.jpg,VC
+Ke Li,Assistant Professor,CS,,https://www.sfu.ca/~keli/,ke_li.jpg,"VC,DA"
+Lawrence Kim,Assistant Professor,CS,,https://www.lhkim.com/,,IC
+Lesley Shannon,Professor,ENSC,,http://www2.ensc.sfu.ca/~lshannon/,,DA
+Lyn Bartram,Professor,SIAT,,https://www.sfu.ca/~lyn,,"IC,SI"
+Maite Taboada,Professor,Linguistics,,http://www.sfu.ca/~mtaboada/,,SI
+Manolis Savva,Assistant Professor,CS,steering committee,https://msavva.github.io/,manolis_savva.jpg,VC
+Max Libbrecht,Assistant Professor,CS,,http://libbrechtlab.com,max_libbrecht.jpg,DA
+Michelle Levy,Professor,English,,https://www.sfu.ca/english/people-dir/faculty/michelle-levy.html,,DA
+Mo Chen,Assistant Professor,CS,,https://sfumars.com/mo-chen/,mo_chen.jpg,VC
+Oliver Schulte,Professor,CS,,http://www.cs.sfu.ca/~oschulte/,oliver_schulte.jpg,VC
+Parmit Chilana,Associate Professor,CS,co-director,https://ixlab.cs.sfu.ca/,parmit_chilana.jpg,IC
+Parvaneh Saeedi,Associate Professor,ENSC,,http://www2.ensc.sfu.ca/~psaeedi/,,VC
+Paul Tupper,Professor,Mathematics,,https://www.sfu.ca/~pft3/,,VC
+Philippe Pasquier,Professor,SIAT,,https://metacreation.net/,,"IC,DA"
+Richard Zhang,Professor,CS,,https://www2.cs.sfu.ca/~haoz/,hao_zhang.jpg,VC
+Robert Hogg,Professor,Health Science,,https://www.sfu.ca/fhs/about/people/profiles/robert-hogg.html,,DA
+Ron Wakkary,Professor,SIAT,,http://eds.siat.sfu.ca,,IC
+Saba Alimadadi,Assistant Professor,CS,,http://www.sfu.ca/~saba/,,IC
+Sheelagh Carpendale,Professor,CS,steering committee,https://www.cs.sfu.ca/~sheelagh/,sheelagh_carpendale.jpg,IC
+Steve DiPaola,Professor,SIAT,,http://ivizlab.sfu.ca,,"VC,IC,SI"
+Steven Weldon,Professor,Political Science,,http://www.sfu.ca/~sweldon/,,SI
+Sun-ha Hong,Assistant Professor,CMNS,,http://sunhahong.org,,SI
+Tenzin Doleck,Assistant Professor,Education,,https://www.sfu.ca/education/faculty-research/faculty-directory/faculty-members/tdoleck.html,,"IC,SI"
+Terri Griffith,Professor,Beedie,,https://terrigriffith.com/,,"IC,DA"
+Wendy Chun,Professor,CMNS,,https://digitaldemocracies.org/,,"VC,IC,SI"
+Will Odom,Assistant Professor,SIAT,,https://willodom.com/portfolio/,,"IC,SI"
+Woo Soo Kim,Associate Professor,MSE,,http://www.sfu.ca/~woosook/About_PI.html,,IC
+Wolfgang Stuerzlinger,Professor,SIAT,,https://vvise.iat.sfu.ca,,IC
+Xing-Dong Yang,Associate Professor,CS,,http://www.sfu.ca/~xingdong/,,IC
+Yagiz Aksoy,Assistant Professor,CS,,http://yaksoy.github.io,yagiz_aksoy.jpg,"VC,DA"
+Yasutaka Furukawa,Associate Professor,CS,co-director,https://www.cs.sfu.ca/~furukawa,yasu_furukawa.jpg,VC
