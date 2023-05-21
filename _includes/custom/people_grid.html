@@ -3,7 +3,7 @@
 {%- if people.size > 0 -%}
 <div>
   {%- if include.title -%}
-    <h2 class="post-list-heading">{{ include.title }}</h2>
+    <h2>{{ include.title }}</h2>
   {%- endif -%}
   <div>
     {%- for person in people -%}
@@ -17,7 +17,7 @@
       <div>
         {{ person.name }}
         <br>{{ person.department }}
-        <br>{{ person.tags }}
+        <!-- <br>{{ person.tags }} -->
       </div>
     </a>
     {%- endfor -%}

@@ -1,3 +1,5 @@
+<img class="title-image" src="assets/sfu-burnaby-campus.jpg">
+
 <h2>
   <mark class="red">VINCI</mark> is a research institute at SFU focusing on
   <mark class="red">V</mark>isual and
@@ -5,8 +7,14 @@
   <mark class="red">C</mark>omputing
 </h2>
 
+The Visual and Interactive Computing Institute (VINCI) is a new institute at Simon Fraser University (SFU) that brings together faculty from various departments to collaborate on research and education in the areas of visual computing, interactive computing, social implications, and domain-specific applications.
 Our members cover a wide range of research areas, including:
 - <mark class="tag">VC</mark> : Visual Computing (graphics, vision, AI/ML, mathematical modeling, etc.)
 - <mark class="tag">IC</mark> : Interactive Computing (HCI, visualization, human-centred design, etc.)
 - <mark class="tag">SI</mark> : Social Implications (digital media, ethics, policy, philosophy, governance, etc.)
 - <mark class="tag">DA</mark> : Domain-Specific Applications (languages, health, music, learning, business, history, etc.)
+
+{% assign directors = site.data.people | where: "tags", "co-director" %}
+{% include custom/people_grid.html people=directors title="Co-directors" %}
+
+{% include custom/people_grid.html people=site.data.people title="Members" %}
