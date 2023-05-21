@@ -17,6 +17,11 @@
       <div>
         {{ person.name }}
         <br>{{ person.department }}
+        <br>
+        {%- assign areas = person.area | split: "," -%}
+        {% for area in areas %}
+          <mark class="tag">{{ area }}</mark>
+        {% endfor %}
         <!-- <br>{{ person.tags }} -->
       </div>
     </a>
