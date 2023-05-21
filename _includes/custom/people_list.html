@@ -1,0 +1,28 @@
+{% assign people = include.people %}
+
+{%- if people.size > 0 -%}
+<div>
+  {%- if include.title -%}
+  <h2 class="post-list-heading">{{ include.title }}</h2>
+  {%- endif -%}
+
+  <div>
+    {%- for person in directors -%}
+    <h3> {{ person.name }} </h3>
+    <a class="lab" href="{{ person.webpage | relative_url }}">
+        {%- if person.photo -%}
+        {% assign photo_url = '/assets/images/people/' | append: person.photo %}
+        <img class="photo" src="{{ photo_url }}" alt="{{ person.name }}"/>
+        {%- else -%}
+        <div style="width: 200px; height: 200px"></div>
+        {%- endif -%}
+        <!-- <div class="content">
+        <div class="prof">{{ person.name }}</div>
+        </div> -->
+    </a>
+    <div class="about">{{ person.bio }}</div>
+    {%- endfor -%}
+  </div>  
+</div>
+
+{%- endif -%}

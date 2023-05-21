@@ -1,18 +1,23 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About VINCI
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+The Visual and Interactive Computing Institute (VINCI) is a new institute at Simon Fraser University (SFU) that brings together faculty from various departments to collaborate on research and education in the areas of visual computing, interactive computing, social implications, and domain-specific applications.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+{% assign directors = site.data.people | where: "tags", "co-director" %}
+{% include custom/people_grid.html people=directors title="Co-directors" %}
 
+## Contact Information
 
-[jekyll-organization]: https://github.com/jekyll
+You can contact VINCI at:
+
+Visual and Interactive Computing Institute  
+Simon Fraser University  
+8888 University Drive  
+Burnaby, BC V5A 1S6  
+Canada  
+Email: {{ site.email }}
