@@ -10,13 +10,15 @@ body {
   margin: 0;
 }
 
-a {
-  color: #8c1515;
-}
+a, a:visited { color: #8c1515; }
 
-.wrapper {
-  max-width: 1600px;
-}
+.site-header { border-top: 5px solid #8c1515; }
+
+.site-title, .site-title:visited { color: #8c1515; }
+
+.site-footer { border-top: 1px solid #8c1515; }
+
+.wrapper { max-width: 1600px; }
 
 .photo {
   border-radius: 100%;

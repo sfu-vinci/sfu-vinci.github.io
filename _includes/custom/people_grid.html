@@ -15,9 +15,10 @@
         <div class="photo"></div>
       {%- endif -%}
       <div>
-        {{ person.name }}<br>
-        {{ person.title }}<br>
-        {{ person.department }}
+        {{ person.name }}
+        <!-- <br>{{ person.title }} -->
+        <br>{{ person.department }}
+        <br>{{ person.tags }}
       </div>
     </a>
     {%- endfor -%}
