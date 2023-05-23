@@ -1,5 +1,9 @@
 {% assign people = include.people %}
 
+{%- if include.showLegend -%}
+{%- include custom/legend.html -%}
+{%- endif -%}
+
 {%- if people.size > 0 -%}
 <div>
   {%- if include.title -%}
