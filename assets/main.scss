@@ -40,10 +40,13 @@ mark.red {
   font-family: monospace;
   color: white;
   font-weight: bolder;
-  background: #A6192E;
   border-radius: 0.2rem;
   vertical-align: baseline;
   padding: 0.05em 0.2em;
+  &-VC { @extend .tag; background: #D62728; }
+  &-IC { @extend .tag; background: #2CA02C; }
+  &-SI { @extend .tag; background: #FF7F0E; }
+  &-DA { @extend .tag; background: #1F77B4; }
 }
 
 .photo {
