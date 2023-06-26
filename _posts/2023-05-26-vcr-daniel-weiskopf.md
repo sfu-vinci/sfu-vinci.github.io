@@ -5,7 +5,7 @@ date:   2023-05-26 19:45:16 -0700
 categories: vcr, talk
 ---
 
-We have Daniel Weiskopf presenting at our SFU VINCI Visual Computing and Robotics (VCR) seminar.
+We have [Daniel Weiskopf](https://www.vis.uni-stuttgart.de/en/institute/team/Weiskopf/) presenting at our SFU VINCI Visual Computing and Robotics (VCR) seminar.
 
 **Date**: Friday, May 26, 2023
 
