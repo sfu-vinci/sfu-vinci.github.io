@@ -2,9 +2,12 @@
 layout: post
 title:  "VCR HCI seminar featuring Ben Shneiderman"
 date:   2024-04-03 1:30:00 -0700
-categories: hci, talk 
+categories: vinci, talk 
 ---
+
+
 We have Ben Shneiderman presenting at our SFU VINCI HCI seminar.
+
 
 **Date**: Wednesday, April 3, 2024
 
@@ -26,4 +29,3 @@ This talk will address these opportunities and dangers, focusing on applications
  
 Ben is the lead author of Designing the User Interface: Strategies for Effective Human-Computer Interaction (6th ed., 2016).  He co-authored Readings in Information Visualization: Using Vision to Think (1999) and Analyzing Social Media Networks with NodeXL (2nd edition, 2019).  His book Leonardo’s Laptop (MIT Press) won the IEEE book award for Distinguished Literary Contribution. The New ABCs of Research: Achieving Breakthrough Collaborations (Oxford, 2016) describes how research can produce higher impacts. His book, Human-Centered AI, published by Oxford University Press in 2022, was the winner of the Association of American Publishers award for Computer and Information Systems.
  
-
