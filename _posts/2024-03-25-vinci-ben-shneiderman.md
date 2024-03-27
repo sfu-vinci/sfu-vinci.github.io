@@ -8,7 +8,7 @@ categories: vinci, talk
 
 We have Ben Shneiderman presenting at our SFU VINCI HCI seminar.
 
-![image](https://github.com/sfu-vinci/sfu-vinci.github.io/assets/87826036/166cf63c-46ac-490b-ac9e-e024b576c4cb)
+<img src="http://www.cs.umd.edu/~ben/Photos/ben_6_10/5.jpg" width="50" height="100" alt="Ben S">
 
 **Date**: Wednesday, April 3, 2024
 
