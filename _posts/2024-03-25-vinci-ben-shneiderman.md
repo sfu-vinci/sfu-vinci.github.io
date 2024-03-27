@@ -1,13 +1,14 @@
 ---
 layout: post
 title:  "VCR HCI seminar featuring Ben Shneiderman"
-date:   2024-04-03 1:30:00 -0700
+date:   2024-03-25 1:30:00 -0700
 categories: vinci, talk 
 ---
 
 
 We have Ben Shneiderman presenting at our SFU VINCI HCI seminar.
 
+![image](https://github.com/sfu-vinci/sfu-vinci.github.io/assets/87826036/166cf63c-46ac-490b-ac9e-e024b576c4cb)
 
 **Date**: Wednesday, April 3, 2024
 
