@@ -4,6 +4,7 @@ title:  "VCR HCI seminar featuring Ben Shneiderman"
 date:   2024-04-03 1:30:00 -0700
 categories: hci, talk 
 ---
+We have Ben Shneiderman presenting at our SFU VINCI HCI seminar.
 
 **Date**: Wednesday, April 3, 2024
 
