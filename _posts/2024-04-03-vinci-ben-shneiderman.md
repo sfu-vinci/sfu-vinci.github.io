@@ -12,7 +12,7 @@ categories: hci, talk
 **Location**: TASC 1 9204, Burnaby campus
 
 
-**Talk Title**: Generative AI: With Great Power Comes Great Responsibility
+**Talk Title**: Generative AI - With Great Power Comes Great Responsibility
 
 
 **Abstract**: Generative AI Tools, like ChatGPT, Bard, and Midjourney, provide powerful features for users, but also bring substantial dangers. Generating text, answering questions, summarizing documents, and writing code are common text-based applications, complemented by multimedia images, videos, songs, and speech.
