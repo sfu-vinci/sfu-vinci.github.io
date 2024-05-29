@@ -22,3 +22,4 @@ categories: vinci, talk
 
 **Biography**: Dr. Mary Czerwinski is a Partner Research Manager of the Human Understanding and Empathy (HUE) Research Group at Microsoft Research. Mary's latest research focuses primarily on behavior change and intervention design, health and wellness for individuals and productivity at work. Her research background is in visual attention and multitasking. She holds a Ph.D. in Cognitive Psychology from Indiana University in Bloomington. Mary received the ACM SIGCHI Lifetime Service Award, was inducted into the CHI Academy and received the Distinguished Alumni award from Indiana University's College of Arts and Sciences. Mary is a Fellow of the ACM and the American Psychological Science Association. This year, Mary was inducted into the National Academy of Engineering. More information about Dr. Czerwinski can be found at her website: https://www.microsoft.com/en-us/research/people/marycz/ .
 
+Contact angelica@sfu.ca for more information.
