@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "VINCI seminar featuring Mary Czerwinski"
-date:   2024-06-07 12:30:00 -0700
+date:   2024-05-28 12:30:00 -0700
 categories: vinci, talk
 ---
 
