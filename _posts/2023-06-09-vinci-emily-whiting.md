@@ -5,7 +5,7 @@ date:   2023-06-09 11:00:00 -0700
 categories: vinci, talk
 ---
 
-We have [Emily Whiting](https://cs-people.bu.edu/whiting/) presenting at our SFU VINCI seminar.
+We have [Emily Whiting](https://cs-people.bu.edu/whiting/) from Boston University presenting at our SFU VINCI seminar.
 
 **Date**: Friday, June 9, 2023
 

@@ -5,7 +5,7 @@ date:   2024-09-05 15:51:24 -0700
 categories: dls, talk
 ---
 
-As part of SFU's [Distinuished Lecture Series](https://www.sfu.ca/computing/newsandevents/distinguished-lecture-series.html), we are excited to have Maneesh Agrawala.
+As part of SFU's [Distinuished Lecture Series](https://www.sfu.ca/computing/newsandevents/distinguished-lecture-series.html), we are excited to have [Maneesh Agrawala](https://graphics.stanford.edu/~maneesh/) from Stanford.
 
 ![Maneesh Agrawala](/assets/images/talks/maneesh_agrawala.jpg){: height="250" }
 

@@ -6,7 +6,7 @@ categories: vinci, talk
 ---
 
 
-We have Ben Shneiderman presenting at our SFU VINCI HCI seminar.
+We have [Ben Shneiderman](https://www.cs.umd.edu/users/ben/) from University of Maryland presenting at our SFU VINCI HCI seminar.
 
 <img src="http://www.cs.umd.edu/~ben/Photos/ben_6_10/5.jpg" width="130" height="180" alt="Ben S">
 

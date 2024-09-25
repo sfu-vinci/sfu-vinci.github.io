@@ -5,6 +5,7 @@ date:   2024-05-28 12:30:00 -0700
 categories: vinci, talk
 ---
 
+We have [Mary Czerwinski](https://www.microsoft.com/en-us/research/people/marycz/) from Microsoft Research presenting at our SFU VINCI seminar.
 
 <img src="https://www.microsoft.com/en-us/research/wp-content/uploads/2017/06/avatar_user_32824_1498795276-180x180.jpg" width="180" height="180" alt="Mary C">
 
