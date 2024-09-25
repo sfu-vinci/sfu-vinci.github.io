@@ -1,7 +1,13 @@
-- title: VINCI Meet and Greet
-  description: Kick-off event where VINCI members meet and participate in discussion
-  date: 2023-04-12
-  time: 11:00 AM - 2:00 PM
+- title: "Visual & Interactive Computing in the Age of AI: Interpretations and Research Challenges"
+  description: Mini-workshop to discuss visual and interactive computing and research challenges
+  date: 2024-07-05
+  time: 11:00 AM - 1:30 PM
+  location: SFU Surrey
+
+- title: VINCI HCI Seminar by Ben Shneiderman
+  description: Generative AI - With Great Power Comes Great Responsibility
+  date: 2024-04-03
+  time: 1:30 PM - 2:30 PM
   location: SFU Burnaby - TASC1 9204
 
 - title: Impacts of Large Language Models and AI on Society
@@ -10,9 +16,9 @@
   time: 11:00 AM - 1:00 PM
   location: SFU Burnaby - ASB 10704
 
-- title: VINCI HCI Seminar by Ben Shneiderman
-  description: Generative AI - With Great Power Comes Great Responsibility
-  date: 2024-04-03
-  time: 1:30 PM - 2:30 PM
+- title: VINCI Meet and Greet
+  description: Kick-off event where VINCI members meet and participate in discussion
+  date: 2023-04-12
+  time: 11:00 AM - 2:00 PM
   location: SFU Burnaby - TASC1 9204
 

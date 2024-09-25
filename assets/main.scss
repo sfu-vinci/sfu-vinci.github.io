@@ -2,7 +2,7 @@
 ---
 
 @import "minima";
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:100,400);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:100,400,700);
 
 body {
   font-family: "Source Sans Pro", sans-serif;
@@ -54,6 +54,12 @@ mark.red {
   width: 200px;
   height: 200px;
   margin-bottom: 1rem;
+}
+
+.small-photo {
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
 }
 
 .person {

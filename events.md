@@ -8,7 +8,7 @@ permalink: /events/
 
 ## {{ event.title }}
 
-{{ event.date | date: "%B %d, %Y" }}
+**{{ event.date | date: "%B %d, %Y" }}**:
 {{ event.description }}
 <!-- [Learn more]({{ event.url }}) -->
 {% endfor %}
