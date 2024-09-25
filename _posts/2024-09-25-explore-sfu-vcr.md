@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Expore SFU Visual Computing and Robotics"
+title:  "Explore SFU Visual Computing and Robotics"
 date:   2024-09-25 00:00:00 -0700
 categories: event
 ---
