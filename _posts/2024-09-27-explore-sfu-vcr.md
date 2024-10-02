@@ -5,7 +5,7 @@ date:   2024-09-27 00:00:00 -0700
 categories: event
 ---
 
-We have a special event that showcases SFU's research in AI, visual Computing, and robotics.  The event will feature a research talk by [Dr. Konrad Tollmar](https://www.kth.se/profile/konrad), Head of Research at [Electronic Arts (EA)](https://www.ea.com/technology/research), and will allow for upper year CS undergrads, visiting students from Europe to socialize with current SFU grad students and tour the [ixLab](https://ixlab.cs.sfu.ca/), [GRUVI](https://gruvi.cs.sfu.ca/), and [Robotics Lab](https://robotics.sfu.ca/).
+We have a special event that showcases SFU's research in AI, visual Computing, and robotics.  The event will feature a research talk by [Dr. Konrad Tollmar](https://www.kth.se/profile/konrad), Head of Research at [Electronic Arts (EA)](https://www.ea.com/technology/research), and will allow for upper year CS undergrads, visiting students from Europe to socialize with current SFU grad students and tour the [ixLab](https://ixlab.cs.sfu.ca/), [GrUVi](https://gruvi.cs.sfu.ca/), and [Robotics Lab](https://robotics.sfu.ca/).
 
 
 **Date**: Friday, Sept 27, 2024
@@ -38,7 +38,7 @@ We have a special event that showcases SFU's research in AI, visual Computing, a
 
 |   Time | Speaker |
 |--------|---------|
-|   10:05-10:25	|  ![Ali Mahdavi Amiri](/assets/images/people/ali_mahdavi_amiri.jpg){: .small-photo}  [**Ali Mahdavi Amiri**](https://arash-mham.github.io/) | 
+|   10:05-10:25	| ![Ali Mahdavi Amiri](/assets/images/people/ali_mahdavi_amiri.jpg){: .small-photo}  [**Ali Mahdavi Amiri**](https://arash-mham.github.io/) | 
 |   10:25-10:45	| ![Angel Xuan Chang](/assets/images/people/angel_xuan_chang.jpg){: .small-photo} [**Angel Xuan Chang**](https://angelxuanchang.github.io/)       |
 |   10:45-11:05	| ![Angelica Lim](/assets/images/people/angelica_lim.jpg){: .small-photo} [**Angelica Lim**](https://www.rosielab.ca/)      |
 |   11:05-11:25	| ![Mo Chen](/assets/images/people/mo_chen.jpg){: .small-photo} [**Mo Chen**](https://sfumars.com/people/)           |
@@ -50,7 +50,7 @@ We have a special event that showcases SFU's research in AI, visual Computing, a
 - **Demos**: 
   - [ixLab](https://ixlab.cs.sfu.ca/): Foroozan Daneshzand, Nick Vincent, Zezhong Wang, Rimika Chaudhury, Yonghao Shi, Sheng-Yang Chiu, Duc Dang, Maryam Rezaie, Ruishan Wu
   - [Robotics Lab](https://robotics.sfu.ca/): Chuxuan Zhang, Sahar Leisiazar, Satvik Garg, Jingtao Tang, Zachary Svenky 
-  - [GRUVI](https://gruvi.cs.sfu.ca/): Kevin Yan, Ahan Shabanov, Yi Shi, Michael, Sai Raj Kishore, Eric Wang, Chirag Vashist
+  - [GrUVi](https://gruvi.cs.sfu.ca/): Kevin Yan, Ahan Shabanov, Yi Shi, Michael, Sai Raj Kishore, Eric Wang, Chirag Vashist
 - **Demo tour guides**: Bita Azari, Morteza Badali, Bermet Burkanova
 - **Campus tour guides**: Alyssa Rusk, Kyle Deliyannides
 - **Registration and logistics**: Deborah Acheampong, Tina Choi, Jenny Feng, Stephanie Snowden, Angelica Kang
