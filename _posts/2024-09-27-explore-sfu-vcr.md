@@ -44,3 +44,17 @@ We have a special event that showcases SFU's research in AI, visual Computing, a
 |   11:05-11:25	| ![Mo Chen](/assets/images/people/mo_chen.jpg){: .small-photo} [**Mo Chen**](https://sfumars.com/people/)           |
 |   11:25-11:45	| ![Manolis Savva](/assets/images/people/manolis_savva.jpg){: .small-photo} [**Manolis Savva**](https://msavva.github.io/)     |
 
+
+## Organizing Committee
+
+- **Demos**: 
+  - [ixLab](https://ixlab.cs.sfu.ca/): Foroozan Daneshzand, Nick Vincent, Zezhong Wang, Rimika Chaudhury, Yonghao Shi, Sheng-Yang Chiu, Duc Dang, Maryam Rezaie, Ruishan Wu
+  - [Robotics Lab](https://robotics.sfu.ca/): Chuxuan Zhang, Sahar Leisiazar, Satvik Garg, Jingtao Tang, Zachary Svenky 
+  - [GRUVI](https://gruvi.cs.sfu.ca/): Kevin Yan, Ahan Shabanov, Yi Shi, Michael, Sai Raj Kishore, Eric Wang, Chirag Vashist
+- **Demo tour guides**: Bita Azari, Morteza Badali, Bermet Burkanova
+- **Campus tour guides**: Alyssa Rusk, Kyle Deliyannides
+- **Registration and logistics**: Deborah Acheampong, Tina Choi, Jenny Feng, Stephanie Snowden, Angelica Kang
+- **Lunch**: Chuxuan Zhang, Chong He, Kevin Yan
+- **Website**: Angel X. Chang
+- **IT support**: Daniel Lins da Silva
+- **Event Lead and MC**: Angelica Lim
