@@ -50,7 +50,7 @@ We have a special event that showcases SFU's research in AI, visual Computing, a
 - **Demos**: 
   - [ixLab](https://ixlab.cs.sfu.ca/): Foroozan Daneshzand, Nick Vincent, Zezhong Wang, Rimika Chaudhury, Yonghao Shi, Sheng-Yang Chiu, Duc Dang, Maryam Rezaie, Ruishan Wu
   - [Robotics Lab](https://robotics.sfu.ca/): Chuxuan Zhang, Sahar Leisiazar, Satvik Garg, Jingtao Tang, Zachary Svenky 
-  - [GrUVi](https://gruvi.cs.sfu.ca/): Kevin Yan, Ahan Shabanov, Yi Shi, Michael, Sai Raj Kishore, Eric Wang, Chirag Vashist
+  - [GrUVi](https://gruvi.cs.sfu.ca/): Kevin Yan, Ahan Shabanov, Yi Shi, Michael Xu, Sai Raj Kishore, Eric Wang, Chirag Vashist
 - **Demo tour guides**: Bita Azari, Morteza Badali, Bermet Burkanova
 - **Campus tour guides**: Alyssa Rusk, Kyle Deliyannides
 - **Registration and logistics**: Deborah Acheampong, Tina Choi, Jenny Feng, Stephanie Snowden, Angelica Kang
