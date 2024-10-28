@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Decoding the human genome with interpretable machine learning"
-date:   2024-11-13 12:00:00 -0700
+date:   2024-10-27 12:00:00 -0700
 categories: vinci, talk
 ---
 
