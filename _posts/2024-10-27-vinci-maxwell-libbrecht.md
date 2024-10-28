@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Decoding the human genome with interpretable machine learning"
-date:   2024-10-27 12:00:00 -0700
+date:   2024-11-13 12:00:00 -0700
 categories: vinci, talk
 ---
 
 
 We are pleased to have [Maxwell Libbrecht](https://www.sfu.ca/computing/people/faculty/maxlibbrecht11.html) from Simon Fraser University presenting at our SFU VINCI seminar.
 
-<img src="https://www.sfu.ca/content/sfu/computing/people/faculty/maxlibbrecht11/jcr:content/main_content/image.img.2000.high.jpg" width="180" height="180" alt="Maxwell L">
+<img src="https://www.sfu.ca/content/sfu/computing/people/faculty/maxlibbrecht11/jcr:content/main_content/image.img.2000.high.jpg" width="180" height="260" alt="Maxwell L">
 
 **Date**: Wednesday, November 13, 2024  
 
