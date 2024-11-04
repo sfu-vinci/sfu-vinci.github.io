@@ -39,6 +39,7 @@ header_pages:
   - events.md
   - news.md
   - people.md
+  - support.md
 
 # Generate pages from data
 page_gen:
