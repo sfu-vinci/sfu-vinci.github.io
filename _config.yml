@@ -32,6 +32,21 @@ show_excerpts: true
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-datapage-generator
+
+# Header pages
+header_pages:
+  - events.md
+  - news.md
+  - people.md
+
+# Generate pages from data
+page_gen:
+  - data: "events"
+    template: "event"
+    name_expr: record['date'] + "-" + record['name']
+    title: "title"
+    dir: "events"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

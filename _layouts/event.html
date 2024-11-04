@@ -1,0 +1,15 @@
+---
+layout: post
+---
+
+<div>
+  {{page.description}}
+  <div>
+    {%- if page.photos -%}
+      <b>Photos</b>:</br>
+      {%- for photo in page.photos -%}
+        <img height="300px" src="{{ photo }}""/>
+      {%- endfor -%}
+    {%- endif -%}
+  </div>
+</div>

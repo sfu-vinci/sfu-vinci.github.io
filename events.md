@@ -1,12 +1,12 @@
 ---
-layout: default
+layout: page
 title: Events
 permalink: /events/
 ---
 
 {% for event in site.data.events %}
 
-## {{ event.title }}
+## [{{ event.title }}](/events/{{event.date}}-{{event.name}}.html)
 
 **{{ event.date | date: "%B %d, %Y" }}**:
 {{ event.description }}

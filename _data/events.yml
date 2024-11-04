@@ -1,30 +1,34 @@
-- title: "Shaping the Future with AI: Innovations in Visual & Interactive Computing"
+- name: "shaping-the-future"
+  title: "Shaping the Future with AI: Innovations in Visual & Interactive Computing"
   description: Panel discussion and research poster mixer session to highlight state-of-the-art research at the intersections of AI with visual & interactive computing. <a href="https://sfu-vinci.eventbrite.ca/">See event page.</a>
-  date: 2024-11-26
+  date: "2024-11-26"
   time: 4:30 AM - 7:30 PM
   location: SFU Vancouver (Harbour Centre)
 
-- title: "Visual & Interactive Computing in the Age of AI: Interpretations and Research Challenges"
+- name: "vic-in-age-of-ai"
+  title: "Visual & Interactive Computing in the Age of AI: Interpretations and Research Challenges"
   description: Mini-workshop to discuss visual and interactive computing and research challenges
-  date: 2024-07-05
+  date: "2024-07-05"
   time: 11:00 AM - 1:30 PM
   location: SFU Surrey
 
-- title: VINCI HCI Seminar by Ben Shneiderman
+- name: "hci-seminar-ben-shneiderman"
+  title: VINCI HCI Seminar by Ben Shneiderman
   description: Generative AI - With Great Power Comes Great Responsibility
-  date: 2024-04-03
+  date: "2024-04-03"
   time: 1:30 PM - 2:30 PM
   location: SFU Burnaby - TASC1 9204
 
-- title: Impacts of Large Language Models and AI on Society
+- name: "llm-impacts"
+  title: Impacts of Large Language Models and AI on Society
   description: Mini-workshop to discuss impact of LLMs and AI on society
-  date: 2024-02-09
+  date: "2024-02-09"
   time: 11:00 AM - 1:00 PM
   location: SFU Burnaby - ASB 10704
 
-- title: VINCI Meet and Greet
+- name: "vinci-meet-greet"
+  title: VINCI Meet and Greet
   description: Kick-off event where VINCI members meet and participate in discussion
-  date: 2023-04-12
+  date: "2023-04-12"
   time: 11:00 AM - 2:00 PM
   location: SFU Burnaby - TASC1 9204
-
