@@ -1,7 +1,8 @@
 {% if site.paginate %}
 {% assign posts = paginator.posts %}
 {% else %}
-{% assign posts = site.posts %}
+<!-- {% assign posts = site.posts %} -->
+{% assign posts = site.posts | concat: site.data.events | date_sort | reverse %}
 {% endif %}
 
 {%- if posts.size > 0 -%}

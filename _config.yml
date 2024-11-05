@@ -30,6 +30,8 @@ show_excerpts: true
 
 # Build settings
 theme: minima
+safe: false
+plugins_dir: _plugins
 plugins:
   - jekyll-feed
   - jekyll-datapage-generator
