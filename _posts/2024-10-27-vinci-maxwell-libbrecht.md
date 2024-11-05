@@ -2,7 +2,7 @@
 layout: post
 title:  "VINCI HCI Seminar featuring Maxwell Libbrecht"
 date:   2024-10-27 12:00:00 -0700
-categories: vinci, talk
+categories: vinci talk
 ---
 
 

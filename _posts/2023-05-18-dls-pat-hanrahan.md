@@ -2,7 +2,7 @@
 layout: post
 title:  "VINCI DLS talk featuring Pat Hanrahan"
 date:   2023-05-18 15:51:24 -0700
-categories: dls, talk
+categories: dls talk
 ---
 
 As part of SFU's [Distinguished Lecture Series](https://www.sfu.ca/computing/newsandevents/distinguished-lecture-series.html), we are excited to have [Pat Hanrahan](https://graphics.stanford.edu/~hanrahan/) from Stanford.

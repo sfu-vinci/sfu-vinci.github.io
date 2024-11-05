@@ -2,7 +2,7 @@
 layout: post
 title:  "VINCI VCR seminar featuring Mary Czerwinski"
 date:   2024-05-28 12:30:00 -0700
-categories: vinci, talk
+categories: vinci talk
 ---
 
 We have [Mary Czerwinski](https://www.microsoft.com/en-us/research/people/marycz/) from Microsoft Research presenting at our SFU VINCI seminar.

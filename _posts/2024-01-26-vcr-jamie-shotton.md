@@ -2,7 +2,7 @@
 layout: post
 title:  "VINCI VCR seminar featuring Jamie Shotton"
 date:   2024-01-26 12:30:00 -0700
-categories: vcr, talk
+categories: vcr talk
 ---
 
 We have [Jamie Shotton](https://jamie.shotton.org/) from Wayve presenting at our SFU VINCI Visual Computing and Robotics (VCR) seminar.

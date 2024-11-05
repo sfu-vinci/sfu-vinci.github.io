@@ -2,7 +2,7 @@
 layout: post
 title:  "VINCI VCR seminar featuring Daniel Weiskopf"
 date:   2023-05-26 19:45:16 -0700
-categories: vcr, talk
+categories: vcr talk
 ---
 
 We have [Daniel Weiskopf](https://www.vis.uni-stuttgart.de/en/institute/team/Weiskopf/) from University of Stuttgart presenting at our SFU VINCI Visual Computing and Robotics (VCR) seminar.

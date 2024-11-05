@@ -2,7 +2,7 @@
 layout: post
 title:  "VINCI DLS talk featuring Maneesh Agrawala"
 date:   2024-09-05 15:51:24 -0700
-categories: dls, talk
+categories: dls talk
 ---
 
 As part of SFU's [Distinguished Lecture Series](https://www.sfu.ca/computing/newsandevents/distinguished-lecture-series.html), we are excited to have [Maneesh Agrawala](https://graphics.stanford.edu/~maneesh/) from Stanford.
