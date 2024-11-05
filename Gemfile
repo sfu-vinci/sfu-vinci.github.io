@@ -19,6 +19,15 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-datapage-generator", "~> 1.3"
   gem "kramdown-parser-gfm"
+  gem "jekyll-coffeescript"
+  gem "jekyll-default-layout"
+  gem "jekyll-gist"
+  gem "jekyll-github-metadata"
+  gem "jekyll-optional-front-matter"
+  gem "jekyll-paginate"
+  gem "jekyll-readme-index"
+  gem "jekyll-relative-links"
+  gem "jekyll-titles-from-headings"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
