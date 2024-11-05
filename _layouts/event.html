@@ -8,7 +8,7 @@ layout: post
     <img height="300px" src="{{page.talk.speaker_photo}}"/><br/><br/>
   {%- endif -%}
   {%- if page.date -%}
-    <div><b>Date</b>: {{page.date}}<br/><br/></div>
+    <div><b>Date</b>: {{page.date | date: '%A %B %d, %Y'}}<br/><br/></div>
   {%- endif -%}  
   {%- if page.time -%}
     <div><b>Time</b>: {{page.time}}<br/><br/></div>
