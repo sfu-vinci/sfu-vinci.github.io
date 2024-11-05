@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "VCR seminar featuring Jamie Shotton"
+title:  "VINCI VCR seminar featuring Jamie Shotton"
 date:   2024-01-26 12:30:00 -0700
 categories: vcr, talk
 ---

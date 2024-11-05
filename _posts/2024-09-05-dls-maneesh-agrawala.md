@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DLS talk featuring Maneesh Agrawala"
+title:  "VINCI DLS talk featuring Maneesh Agrawala"
 date:   2024-09-05 15:51:24 -0700
 categories: dls, talk
 ---

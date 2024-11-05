@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "VINCI seminar featuring Emily Whiting"
+title:  "VINCI VCR seminar featuring Emily Whiting"
 date:   2023-06-09 11:00:00 -0700
 categories: vinci, talk
 ---

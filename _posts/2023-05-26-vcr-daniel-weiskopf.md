@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "VCR seminar featuring Daniel Weiskopf"
+title:  "VINCI VCR seminar featuring Daniel Weiskopf"
 date:   2023-05-26 19:45:16 -0700
 categories: vcr, talk
 ---

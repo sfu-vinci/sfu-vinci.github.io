@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DLS talk featuring Pat Hanrahan"
+title:  "VINCI DLS talk featuring Pat Hanrahan"
 date:   2023-05-18 15:51:24 -0700
 categories: dls, talk
 ---
