@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "VCR HCI seminar featuring Ben Shneiderman"
+title:  "VINCI HCI seminar featuring Ben Shneiderman"
 date:   2024-03-25 1:30:00 -0700
 categories: vinci, talk 
 ---

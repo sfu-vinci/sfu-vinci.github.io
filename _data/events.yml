@@ -12,13 +12,6 @@
   time: 11:00 AM - 1:30 PM
   location: SFU Surrey
 
-- name: "hci-seminar-ben-shneiderman"
-  title: VINCI HCI Seminar by Ben Shneiderman
-  description: Generative AI - With Great Power Comes Great Responsibility
-  date: "2024-04-03"
-  time: 1:30 PM - 2:30 PM
-  location: SFU Burnaby - TASC1 9204
-
 - name: "llm-impacts"
   title: Impacts of Large Language Models and AI on Society
   description: Mini-workshop to discuss impact of LLMs and AI on society
