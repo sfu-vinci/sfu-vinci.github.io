@@ -1,0 +1,20 @@
+{% assign schedule = include.schedule %}
+{{ schedule }}
+{%- if schedule.size > 0 -%}
+<div>
+  <h3>Schedule</h3>
+  <table>
+    <thead>
+        <tr><th>Time</th><th>Event</th></tr>
+    </thead>
+    <tbody>
+    {%- for item in schedule -%}
+      <tr>
+        <td>{{item.time}}</td>
+        <td>{{item.event}}</td>
+      </tr>
+    {%- endfor -%}
+    </tbody>
+</table>
+</div>
+{%- endif -%}

@@ -1,0 +1,15 @@
+{% assign talk = include.talk %}
+
+<div>
+<div><b>Talk Title</b>: {{talk.title}}<br/><br/></div>
+{%- if talk.video -%}
+  <div><a href="{{talk.video}}">View Seminar Recording</a><br/><br/></div>
+{%- endif -%}  
+
+{%- if talk.abstract -%}
+  <div><b>Abstract</b>: {{talk.abstract}}<br/><br/></div>
+{%- endif -%}  
+{%- if talk.bio -%}
+  <div><b>Biography</b>: {{talk.bio}}<br/><br/></div>
+{%- endif -%}
+</div>
