@@ -4,12 +4,38 @@ layout: post
 
 <div>
   {{page.description}}
+  {%- if page.talk and page.talk.speaker_photo -%}
+    <img height="300px" src="{{page.talk.speaker_photo}}"/><br/><br/>
+  {%- endif -%}
+  {%- if page.date -%}
+    <div><b>Date</b>: {{page.date}}<br/><br/></div>
+  {%- endif -%}  
+  {%- if page.time -%}
+    <div><b>Time</b>: {{page.time}}<br/><br/></div>
+  {%- endif -%}  
+  {%- if page.location -%}
+    <div><b>Location</b>: {{page.location}}<br/><br/></div>
+  {%- endif -%}  
+  {%- if page.talk -%}
+    <div><b>Talk Title</b>: {{page.talk.title}}<br/><br/></div>
+    {%- if page.talk.video -%}
+      <div><a href="{{page.talk.video}}">[View Seminar Recording]</a><br/><br/></div>
+    {%- endif -%}  
+
+    {%- if page.talk.abstract -%}
+      <div><b>Abstract</b>: {{page.talk.abstract}}<br/><br/></div>
+    {%- endif -%}  
+    {%- if page.talk.bio -%}
+      <div><b>Biography</b>: {{page.talk.bio}}<br/><br/></div>
+    {%- endif -%}
+  {%- endif -%}
+  
+  {%- if page.photos -%}
   <div>
-    {%- if page.photos -%}
       <b>Photos</b>:</br>
       {%- for photo in page.photos -%}
         <img height="300px" src="{{ photo }}""/>
       {%- endfor -%}
-    {%- endif -%}
   </div>
+  {%- endif -%}
 </div>
