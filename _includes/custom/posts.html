@@ -15,12 +15,22 @@
   <li>
     <span class="post-meta">{{ post.date | date: date_format }}</span>
     <h3>
+      {%- if post.collection == "posts" -%}
       <a class="post-link" href="{{ post.url | relative_url }}">
         {{ post.title | escape }}
       </a>
+      {% else %}
+      <a class="post-link" href="/events/{{post.date}}-{{post.name}}.html">
+        {{ post.title | escape }}
+      </a>
+      {%- endif -%}
     </h3>
     {%- if site.show_excerpts -%}
-      {{ post.excerpt }}
+      {%- if post.collection == "posts" -%}
+        {{ post.excerpt }}
+      {% else %}
+        {{ post.description }}
+      {%- endif -%}
     {%- endif -%}
   </li>
   {%- endfor -%}
