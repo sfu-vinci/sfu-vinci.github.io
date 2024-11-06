@@ -4,6 +4,17 @@
   date: "2024-11-26"
   time: 4:30 AM - 7:30 PM
   location: SFU Vancouver (Harbour Centre)
+  schedule:
+    - time: 4:30pm
+      event: Registration
+    - time: 4:45 - 5:15pm
+      event: Networking & student posters
+    - time: 5:15 - 5:30pm
+      event: Opening remarks
+    - time: 5:30 - 6:15pm
+      event: Panel session with Steve DiPaola, Richard (Hao) Zhang, Greg Mori, Eniko Rozsa with Nickholas Vincent as emcee
+    - time: 6:15 - 7:00pm
+      event: Networking & student posters
 
 - name: "vic-in-age-of-ai"
   title: "Visual & Interactive Computing in the Age of AI: Interpretations and Research Challenges"
