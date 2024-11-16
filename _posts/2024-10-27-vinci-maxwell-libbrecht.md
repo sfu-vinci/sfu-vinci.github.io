@@ -6,15 +6,15 @@ categories: vinci talk
 ---
 
 
-We are pleased to have [Maxwell Libbrecht](https://www.sfu.ca/computing/people/faculty/maxlibbrecht11.html) from Simon Fraser University presenting at our SFU VINCI seminar.
+We have [Maxwell Libbrecht](https://healthresearchbc.ca/award_researcher/maxwell-libbrecht/) from Simon Fraser University presenting at our SFU VINCI seminar.
 
-<img src="https://www.sfu.ca/content/sfu/computing/people/faculty/maxlibbrecht11/jcr:content/main_content/image.img.2000.high.jpg" width="180" height="260" alt="Maxwell L">
+<img src="https://healthresearchbc.ca/wp-content/uploads/2021/09/Maxwell-Libbrecht-e1631129595992.jpg" width="260" height="260" alt="Maxwell L">
 
 **Date**: Wednesday, November 13, 2024  
 
 **Time**: 12:00 PM - 1:00 PM
   
-**Location**: TASC1 920, Burnaby campus
+**Location**: TASC1 9204, Burnaby campus
 
 **Talk Title**: Decoding the human genome with interpretable machine learning
 
