@@ -13,7 +13,7 @@ We have [Mike Payne](https://www.linkedin.com/in/m1kepayne/) from Lumotive prese
 
 **Time**: 12:00 PM - 1:00 PM  
 
-**Location**: TASC1 9204, Burnaby campus  
+**Location**: ASB 9896, Burnaby campus  
 
 **Zoom Link**: [Join via Zoom](https://sfu.zoom.us/j/64266535876?pwd=WXRYdnorV0lJTDhCekhibDg5Y0xnZz09)
 
