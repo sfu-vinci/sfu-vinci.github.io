@@ -18,12 +18,15 @@ layout: post
   {%- endif -%}  
 
   {%- if page.schedule -%}
-    {%- include custom/schedule.html schedule=page.schedule -%}  
+    {%- include custom/schedule.html schedule=page.schedule -%}
   {%- endif -%}
   {%- if page.talk -%}
     {%- include custom/talk.html talk=page.talk -%}
   {%- endif -%}
-  
+  {%- if page.posters -%}
+    {%- include custom/posters.html posters=page.posters -%}
+  {%- endif -%}
+
   {%- if page.photos -%}
   <div>
       <b>Photos</b>:</br>

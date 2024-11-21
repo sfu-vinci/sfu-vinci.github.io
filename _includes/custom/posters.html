@@ -1,0 +1,20 @@
+{% assign posters = include.posters %}
+
+{%- if posters.size > 0 -%}
+<div>
+  <h3>Posters</h3>
+  <table>
+    <thead>
+        <tr><th>ID</th><th>Poster Info</th></tr>
+    </thead>
+    <tbody>
+    {%- for item in posters -%}
+      <tr>
+        <td>{{item.id}}</td>
+        <td><a href="{{item.url}}">{{item.title}}</a><br>{{item.authors}}<br>{{item.venue}}</td>
+      </tr>
+    {%- endfor -%}
+    </tbody>
+</table>
+</div>
+{%- endif -%}

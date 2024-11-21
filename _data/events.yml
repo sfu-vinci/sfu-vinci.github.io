@@ -15,6 +15,27 @@
       event: Panel session with Steve DiPaola, Richard (Hao) Zhang, Greg Mori, Eniko Rozsa with Nickholas Vincent as emcee
     - time: 6:15 - 7:00pm
       event: Networking & student posters
+  posters:
+    - {id: 1, title: "Lagrangian Hashing for Compressed Neural Field Representations", authors: "Shrisudhan Govindarajan, Zeno Sambugaro, Ahan Shabanov, Towaki Takikawa, Daniel Rebain, Weiwei Sun, Nicola Conci, Kwang Moo Yi, Andrea Tagliasacchi", url: "https://doi.org/10.48550/arXiv.2409.05334", venue: "ECCV 2024"}
+    - {id: 2, title: "SweepNet: Unsupervised Learning Shape Abstraction via Neural Sweepers", authors: "Mingrui Zhao, Yizhi Wang, Fenggen Yu, Changqing Zou, Ali Mahdavi-Amiri", url: "https://doi.org/10.48550/arXiv.2407.06305", venue: "ECCV 2024"}
+    - {id: 3, title: "EASI-Tex: Edge-Aware Mesh Texturing from Single Image", authors: "Sai Raj Kishore Perla, Yizhi Wang, Ali Mahdavi-Amiri, Hao (Richard) Zhang", url: "https://doi.org/10.48550/arXiv.2405.17393", venue: "SIGGRAPH 2024"}
+    - {id: 4, title: "PuzzleFusion++: Auto-agglomerative 3D Fracture Assembly by Denoise and Verify", authors: "Zhengqing Wang, Jiacheng Chen, Yasutaka Furukawa", url: "https://doi.org/10.48550/arXiv.2406.00259", venue: "Preprint"}
+    - {id: 5, title: "React to This! How Humans Challenge Interactive Agents using Nonverbal Behaviors", authors: "Chuxuan Zhang, Bermet Burkanova, Lawrence H. Kim, Lauren Yip, Ugo Cupcic, Stéphane Lallée, Angelica Lim", url: "https://doi.org/10.48550/arXiv.2409.11602", venue: "IROS 2024"}
+    - {id: 6, title: "Large-Scale Multi-Robot Coverage Path Planning via Local Search", authors: "Jingtao Tang, Hang Ma", url: "https://doi.org/10.48550/arXiv.2312.10797", venue: "AAAI 2024"}
+    - {id: 7, title: "Intrinsic Single-Image HDR Reconstruction", authors: "Sebastian Dille, Chris Careaga, Yagiz Aksoy", url: "https://doi.org/10.48550/arXiv.2409.13803", venue: "ECCV 2024"}
+    - {id: 8, title: "Empathic Dialog Systems for Patient Intake: Balancing Task-Completion and Emotional Support using RAGs", authors: "Minoo Shayaninasab, Maryiam Zahoor, O. Nilay Yalcin", url: "https://iva.acm.org/2024/accepted-papers/", venue: "ACII 2025 & ACM IVA 2024 Joint Conference"}
+    - {id: 9, title: "CAGE: Controllable Articulation GEneration", authors: "Jiayi Liu, Hou In Ivan Tam, Ali Mahdavi-Amiri, Manolis Savva", url: "https://doi.org/10.48550/arXiv.2312.09570", venue: "CVPR 2024"}
+    - {id: 10, title: "WooDowel: Enhancing Triboelectric Plywood Sensors with Electromagnetic Shielding", authors: "Yonghao Shi, Chenzheng Li, Yuning Su, Xingdong Yang, Te-yen Wu", url: "https://doi.org/10.1145/3613904.3642304", venue: "ACM CHI 2024"}
+    - {id: 11, title: "PAPR: Proximity Attention Point Rendering", authors: "Yanshu Zhang, Shichong Peng, Alireza Moazeni, Ke Li", url: "https://doi.org/10.48550/arXiv.2307.11086", venue: "NeurIPS 2023"}
+    - {id: 12, title: "Why and When LLM-Based Assistants Can Go Wrong: Investigating the Effectiveness of Prompt-Based Interactions for Software Help-Seeking", authors: "Anjali Khurana, Hariharan Subramonyam (Stanford University), Parmit K Chilana", url: "https://doi.org/10.48550/arXiv.2402.08030", venue: "ACM IUI 2024"}
+    - {id: 13, title: "Data Comics For Climate Change", authors: "Zezhong Wang, Stephan Gruber, Claire Herbert, Zandria Sarrazin, Michelle Levy, Sheelagh Carpendale", url: "https://visforclimateaction.github.io/papers/1034-doc.pdf", authors: "ICOP 2024", venue: "IEEE VIS 2024"}
+    - {id: 14, title: "AI-Driven Robotic Sensing System for Autonomous Plant Irrigation Management", authors: "Yiting Chen, Hieu Tran, Woo Soo Kim", url: "https://www.sfu.ca/global-institute-agritech/research-impact/research-highlight/research-items/research-highlight--2.html", venue: "Preprint"}
+    - {id: 15, title: "A step forward in tracing and documenting dataset provenance", authors: "Nick Vincent", url: "https://doi.org/10.1038/s42256-024-00884-w", venue: "Nature Machine Intelligence 2024"}
+    - {id: 16, title: "Segmentation Style Discovery: Application to Skin Lesion Images", authors: "Kumar Abhishek, Jeremy Kawahara, Ghassan Hamarneh", url: "https://doi.org/10.48550/arXiv.2408.02787", venue: "MICCAI Skin Image Analysis Workshop (ISIC) 2024"}
+    - {id: 17, title: "Multi3DRefer: Grounding Text Description to Multiple 3D Objects", authors: "Yiming Zhang, ZeMing Gong, Angel X. Chang", url: "https://doi.org/10.48550/arXiv.2309.05251", venue: "ICCV 2023"}
+    - {id: 18, title: "Impact of Multi-Robot Presence and Anthropomorphism on Human Cognition and Emotion", authors: "Jiadi Luo, Veronika Domova, Lawrence H Kim", url: "https://doi.org/10.1145/3613904.3642795", venue: "ACM CHI 2024"}
+    - {id: 19, title: "Empathy through Aesthetics: Using AI Stylization for Visual Anonymization", authors: "Vanessa Utz, O. Nilay Yalcin, Steve DiPaola ", url: "https://doi.org/10.1145/3661790.3661803", venue: "ACM CHI EmpathiCHI Workshop 2024"}
+    - {id: 20, title: "A Study of Vulnerability Repair in JavaScript Programs with Large Language Models", authors: "Tan Khang Le, Saba Alimadadi and Steven Y. Ko", url: "https://doi.org/10.48550/arXiv.2403.13193", venue: "ACM WWW 2024"}
 
 - name: "vic-in-age-of-ai"
   title: "Visual & Interactive Computing in the Age of AI: Interpretations and Research Challenges"
