@@ -3,6 +3,9 @@ layout: post
 ---
 
 <div>
+  {%- if page.banner -%}
+    <img style="display:block; margin:auto;" height="300px" src="{{page.banner}}"/><br/><br/>
+  {%- endif -%}
   {{page.description}}<br/><br/>  
   {%- if page.talk and page.talk.speaker_photo -%}
     <img height="300px" src="{{page.talk.speaker_photo}}"/><br/><br/>
