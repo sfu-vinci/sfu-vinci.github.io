@@ -1,10 +1,10 @@
 - name: "shaping-the-future"
   banner: "/assets/images/events/2024-11-26/sfu-vinci.jpeg"
   title: "Shaping the Future with AI: Innovations in Visual & Interactive Computing"
-  description: The event will feature a panel session discussion and a research poster session/mixer to highlight state-of-the-art research at the intersections of AI with visual & interactive computing, and to facilitate networking between SFU faculty and students, alumni, and industry practitioners. <a href="https://sfu-vinci.eventbrite.ca/">See event page.</a>
+  description: The event will feature a panel session discussion and a research poster session/mixer to highlight state-of-the-art research at the intersections of AI with visual & interactive computing, and to facilitate networking between SFU faculty and students, alumni, and industry practitioners. To register, see the <a href="https://sfu-vinci.eventbrite.ca/">eventbrite page</a>.
   date: "2024-11-26"
-  time: 4:30 AM - 7:30 PM
-  location: SFU Vancouver (Harbour Centre)
+  time: 4:30 PM - 7:00 PM
+  location: SFU Vancouver (Harbour Centre, Room 1400)
   schedule:
     - time: 4:30pm
       event: Registration
@@ -13,7 +13,7 @@
     - time: 5:15 - 5:30pm
       event: Opening remarks
     - time: 5:30 - 6:15pm
-      event: Panel session with Eniko Rozsa (IBM), Steve DiPaola (SFU SIAT), Greg Mori (RBC Borealis AI), Richard Zhang (Amazon & SFU CS), Nick Vincent (Emcee)
+      event: Panel session with <a href="https://www.linkedin.com/in/eniko-rozsa/">Eniko Rozsa</a> (IBM), <a href="https://www.sfu.ca/siat/people/research-faculty/steve-dipaola.html">Steve DiPaola</a> (SFU SIAT), <a href="https://www.linkedin.com/in/greg-mori-5445b36/">Greg Mori</a> (RBC Borealis AI), <a href="https://www.cs.sfu.ca/~haoz/">Richard Zhang</a> (Amazon & SFU CS), <a href="https://www.nickmvincent.com/">Nick Vincent</a> (Emcee)
     - time: 6:15 - 7:00pm
       event: Networking & student posters
   posters:
