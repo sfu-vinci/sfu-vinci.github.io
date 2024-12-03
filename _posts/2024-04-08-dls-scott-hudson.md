@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Distinguished Lecture featuring Scott Hudson"
+title:  "VINCI DLS talk featuring Scott Hudson"
 date:   2024-04-10 11:30:00 -0700
 categories: dls talk
 ---
 
 We are pleased to have [Scott Hudson](https://www.cs.cmu.edu/~hudson/) from Carnegie Mellon University presenting at our SFU Distinguished Lecture series.
 
-<img src="https://www.cs.cmu.edu/~hudson/homeimages/scott_hudson_photo.jpg" width="260" height="260" alt="Scott H">
+<img src="https://www.cs.cmu.edu/~hudson/homeimages/scott_hudson_photo.jpg" width="256" height="329" alt="Scott H">
 
 **Date**: Wednesday, April 10, 2024  
 
