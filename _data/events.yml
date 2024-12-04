@@ -1,10 +1,17 @@
+- name: "sfu-neurips-2024"
+  title: "SFU@NeurIPS 2024"
+  date: "2024-12-11"
+  time: 9:00 AM - 11:30 AM
+  location: SFU Vancouver - Harbour Centre (515 W Hastings St), McLean Management Room on the 3rd floor) 
+  description: This year NeurIPS 2024 will be in downtown Vancouver.  We will be hosting a series of talks in parallel to the conference. We will have nine speakers from both academia and industry, scheduled over three consecutive mornings 9am-11:30am (Dec. 11, 12, and 13).  See <a href="https://sites.google.com/view/sfu-at-neurips-2024">https://sites.google.com/view/sfu-at-neurips-2024</a> for details.
+
 - name: "shaping-the-future"
   banner: "/assets/images/events/2024-11-26/sfu-vinci.jpeg"
   title: "Shaping the Future with AI: Innovations in Visual & Interactive Computing"
   description: The event will feature a panel session discussion and a research poster session/mixer to highlight state-of-the-art research at the intersections of AI with visual & interactive computing, and to facilitate networking between SFU faculty and students, alumni, and industry practitioners. To register, see the <a href="https://sfu-vinci.eventbrite.ca/">eventbrite page</a>.
   date: "2024-11-26"
   time: 4:30 PM - 7:00 PM
-  location: SFU Vancouver (Harbour Centre, Room 1400)
+  location: SFU Vancouver - Harbour Centre (515 W Hastings St), Room 1400
   schedule:
     - time: 4:30pm
       event: Registration
