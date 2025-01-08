@@ -15,6 +15,8 @@ We have [Philippe Pasquier](https://www.metacreation.net/philippepasquier/home) 
 
 **Location**: TASC1 9204, Burnaby campus  
 
+**Zoom Link**: [Join via Zoom](https://sfu.zoom.us/j/64266535876?pwd=WXRYdnorV0lJTDhCekhibDg5Y0xnZz09)
+
 **Talk Title**: Creative AI: Opportunities and Challenges in Creative Practices
 
 **Abstract**:  
