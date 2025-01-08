@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "VINCI Creative AI Seminar featuring Philippe Pasquier"
+title:  "VINCI Seminar featuring Philippe Pasquier"
 date:   2025-01-07 12:00:00 -0700
 categories: Creative AI talk
 ---
