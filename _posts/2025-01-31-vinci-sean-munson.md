@@ -16,7 +16,9 @@ We are pleased to have [Sean Munson](https://www.smunson.com/) from the Universi
 
 **Location**: TASC1 9204, Burnaby campus  
 
-**Talk Title**: Addressing Goal Misalignments in Health Tracking Technologies  
+**Zoom Link**: [Join via Zoom](https://sfu.zoom.us/j/64266535876?pwd=WXRYdnorV0lJTDhCekhibDg5Y0xnZz09)
+
+**Talk Title**: From Personal Data to Personal Health: Designing for Goals, Reflection, and Collaboration
 
 **Abstract**:  
 Many people track their behaviors, context, and outcomes to understand and manage their health. Despite some successes, many people still experience misalignments between their goals and what their health tracking tools support. Successful reflection and action depend on foundations early in the tracking process, such as understanding and scaffolding for an individual’s goals.  
