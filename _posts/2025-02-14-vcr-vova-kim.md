@@ -7,7 +7,7 @@ categories: vcr talk
 
 As part of our at our SFU VINCI Visual Computing and Robotics (VCR) Seminar series, we are excited to have Dr. [Vladimir (Vova) Kim](http://www.vovakim.com/) from Adobe Research.
 
-![Vova Kim](http://www.vovakim.com/images/me5.jpg){: height="250" }
+![Vova Kim](https://ml.cs.sfu.ca/static/img/vova_kim.2ec5dca.jpg){: height="250" }
 
 **Date**: Friday, Feb 14th, 2024
 
