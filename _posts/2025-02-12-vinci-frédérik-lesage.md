@@ -10,7 +10,7 @@ We are pleased to have [Frédérik Lesage](https://www.sfu.ca/communication/peop
 <img src="https://i1.rgstatic.net/ii/profile.image/11431281167232003-1686604723302_Q512/Frederik-Lesage.jpg" width="300" height="310" alt="Sean M>">
 
 
-**Date**: Wednesday, February 12, 2024  
+**Date**: Wednesday, February 12, 2025  
 
 **Time**: 13:30 AM - 14:30 PM  
 

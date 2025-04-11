@@ -9,7 +9,7 @@ As part of SFU's [Distinguished Lecture Series](https://www.sfu.ca/computing/new
 
 ![Richard Szeliski](/assets/images/talks/rick_szeliski.jpg){: height="250" }
 
-**Date**: Thursday, Feb 27th, 2024
+**Date**: Thursday, Feb 27th, 2025
 
 **Time**: 11:30 AM - 12:30 PM PST
 

@@ -9,7 +9,7 @@ As part of our at our SFU VINCI Visual Computing and Robotics (VCR) Seminar seri
 
 ![Vova Kim](https://ml.cs.sfu.ca/static/img/vova_kim.2ec5dca.jpg){: height="250" }
 
-**Date**: Friday, Feb 14th, 2024
+**Date**: Friday, Feb 14th, 2025
 
 **Time**: 12:00 PM - 1:30 PM PST
 

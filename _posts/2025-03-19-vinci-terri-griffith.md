@@ -10,7 +10,7 @@ We are pleased to have [Terri Griffith](https://terrigriffith.com/) from the Sim
 <img src="https://beedie.sfu.ca/sms/admin/_DocLibrary/_cvs/6d4879643322efb523789e656ebd537b.jpg" width="300" height="380" alt="Sean M>">
 
 
-**Date**: Wednesday, March 19, 2024  
+**Date**: Wednesday, March 19, 2025  
 
 **Time**: 13:30 AM - 14:30 PM  
 

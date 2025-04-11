@@ -10,7 +10,7 @@ We are pleased to have [Sean Munson](https://www.smunson.com/) from the Universi
 <img src="https://www.hcde.washington.edu/files/people/imgs/sean-munson.jpg" width="260" height="310" alt="Sean M>">
 
 
-**Date**: Wednesday, January 31, 2024  
+**Date**: Wednesday, January 31, 2025
 
 **Time**: 11:30 AM - 12:30 PM  
 
