@@ -7,7 +7,7 @@ categories: vinci talk
 
 We are pleased to have [Terri Griffith](https://terrigriffith.com/) from the Simon Fraser University presenting at our SFU VINCI seminar.
 
-<img src="https://beedie.sfu.ca/sms/admin/_DocLibrary/_cvs/6d4879643322efb523789e656ebd537b.jpg" width="300" height="380" alt="Sean M>">
+<img src="https://beedie.sfu.ca/sms/admin/_DocLibrary/_cvs/6d4879643322efb523789e656ebd537b.jpg" width="300" height="380" alt="Terri G>">
 
 
 **Date**: Wednesday, March 19, 2025  

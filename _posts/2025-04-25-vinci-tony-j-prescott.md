@@ -7,7 +7,7 @@ categories: vinci talk
 
 We are pleased to have [Tony J. Prescott](https://tonyjprescott.com/) from the University of Sheffield presenting at our SFU VINCI seminar.
 
-<img src="https://cdn.sheffield.ac.uk/sites/default/files/styles/profile_modal/public/2023-07/CS_Headshots_045.jpg?h=da26d3d9&itok=dRa_GAdo" width="300" height="285" alt="Sean M>">
+<img src="https://cdn.sheffield.ac.uk/sites/default/files/styles/profile_modal/public/2023-07/CS_Headshots_045.jpg?h=da26d3d9&itok=dRa_GAdo" width="300" height="285" alt="Tony J>">
 
 
 **Date**: Friday, April 25, 2025  
