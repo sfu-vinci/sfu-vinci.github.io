@@ -5,7 +5,7 @@ date:   2025-05-15 11:30:00 -0700
 categories: vinci talk
 ---
 
-We are pleased to have [Alex Mariakakis](https://mariakakis.github.io/) from the University of Sheffield presenting at our SFU VINCI seminar.
+We are pleased to have [Alex Mariakakis](https://mariakakis.github.io/) from the University of Toronto presenting at our SFU VINCI seminar.
 
 <img src="https://discover.research.utoronto.ca/12783-alex-mariakakis/thumbnail" width="300" height="285" alt="Alex M>">
 
