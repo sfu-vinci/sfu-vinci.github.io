@@ -1,3 +1,17 @@
+- name: "sfu-icml-2024"
+  title: "SFU@ICML 2024"
+  date: "2025-07-27"
+  time: 9:00 AM - 12:30 PM
+  location: SFU Vancouver - Harbour Centre (515 W Hastings St), Segal Conference Rooms 1400-1430 on the 1st floor) 
+  description: Post-ICML, we will have another exciting event with four exciting speakers.  See <a href="https://sites.google.com/view/sfu-at-icml-2025/sfuicml2025">https://sites.google.com/view/sfu-at-icml-2025/sfuicml2025</a> for details.
+
+- name: "vancouver-icml-2024"
+  title: "Vancouver Vision and Learning Workshop"
+  date: "2025-07-14"
+  time: 9:00 AM - 5:00 PM
+  location: SFU Vancouver - Harbour Centre (515 W Hastings St), Segal Conference Rooms on the 1st floor) 
+  description: This year ICML 2025 will be in downtown Vancouver.  We are co-organizing (together with UBC and the Vector Institute) the Vancouver Vision and Learning Workshop. We will have six speakers from both academia and industry, and lightning talks and posters showcasing recent research in vision and learning.  See <a href="https://sites.google.com/view/vancouver-icml2025/">https://sites.google.com/view/vancouver-icml2025/</a> for details.
+
 - name: "sfu-neurips-2024"
   title: "SFU@NeurIPS 2024"
   date: "2024-12-11"
