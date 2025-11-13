@@ -7,7 +7,7 @@ categories: vinci talk
 
 We are pleased to have [Eva Mackamul](https://evamackamul.com/) from the Simon Fraser University presenting at our SFU VINCI seminar.
 
-<img src="https://i0.wp.com/evamackamul.com/wp-content/uploads/2023/09/round.png?resize=300%2C300&ssl=1" width="350" height="350" alt="Xin T>">
+<img src="https://i0.wp.com/evamackamul.com/wp-content/uploads/2023/09/round.png?resize=300%2C300&ssl=1" width="350" height="350" alt="Eva M>">
 
 
 **Date**: Wednesday, November 5, 2025  
