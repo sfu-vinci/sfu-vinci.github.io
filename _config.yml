@@ -21,7 +21,7 @@
 title: SFU VINCI
 email: vinci-directors@sfu.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  SFU Visual & Interactive Computing Institute
+  SFU Visual, Interactive, and Intelligent Computing Institute
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vinci.sfu.ca" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: true
