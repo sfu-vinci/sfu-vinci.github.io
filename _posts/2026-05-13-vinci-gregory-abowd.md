@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "VINCI Seminar featuring Gregory Abowd"
+title:  "VINCI DLS talk featuring Gregory Abowd"
 date:   2026-05-02 11:30:00 -0700
 categories: vinci talk
 ---
