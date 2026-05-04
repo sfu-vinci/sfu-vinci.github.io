@@ -5,7 +5,7 @@ date:   2026-05-02 11:30:00 -0700
 categories: vinci talk
 ---
 
-We are pleased to have [Gregory D. Abowd](https://coe.northeastern.edu/people/abowd-gregory/) from Northeastern University presenting at our SFU VINCI seminar.
+[Gregory D. Abowd](https://coe.northeastern.edu/people/abowd-gregory/) from Northeastern University will be speaking at the School of Computing Science’s distinguished lecture series.
 
 <img src="https://coe.northeastern.edu/wp-content/uploads/profiles/ece/abowd-g.jpg" width="350" height="465" alt="Gregory Abowd">
 
