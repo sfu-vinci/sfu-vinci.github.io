@@ -11,7 +11,7 @@ We are excited to host [Teerapaun Tanprasert](https://www.cs.ubc.ca/~ttaa2021/do
 
 **Date**: Wednesday, June 3, 2026
 
-**Time**: 12:30 PM
+**Time**: 12:00 PM
 
 **Location**: TASC1 9204, SFU Burnaby
 
