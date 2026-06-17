@@ -41,6 +41,7 @@ header_pages:
   # - events.md
   - news.md
   - people.md
+  - initiatives.md
   - support.md
 
 # Generate pages from data

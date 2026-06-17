@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Supporting VINCI
+title: Support VINCI
 permalink: /support/
 ---
 
