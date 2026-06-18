@@ -1,18 +1,18 @@
 name,title,department,tags,webpage,photo,area
 Ali Mahdavi Amiri,Assistant Professor,CS,,https://www.sfu.ca/~amahdavi/,ali_mahdavi_amiri.jpg,"V,N"
-Alireza Karduni,Assistant Professor,SIAT,,https://www.sfu.ca/siat/people/research-faculty/alireza-karduni.html,alireza_karduni.jpg,"I,S"
+Alireza Karduni,Assistant Professor,SIAT,,https://www.sfu.ca/siat/people/research-faculty/alireza-karduni.html,alireza_karduni.jpg,"I,C"
 Andrea Tagliasacchi,Associate Professor,CS,,https://taiya.github.io,andrea_tagliasacchi.jpg,"V,N"
 Angel Chang,Assistant Professor,CS,,https://angelxuanchang.github.io/,angel_xuan_chang.jpg,"N,V,A"
 Angelica Lim,Assistant Professor,CS,,https://www.rosielab.ca/,angelica_lim.jpg,"N,I"
-Bernhard Riecke,Professor,SIAT,,http://ispace.iat.sfu.ca/riecke/,bernhard_riecke.jpg,"V,I,S"
+Bernhard Riecke,Professor,SIAT,,http://ispace.iat.sfu.ca/riecke/,bernhard_riecke.jpg,"V,I,C"
 Brian Fisher,Professor,SIAT,,https://www.sfu.ca/siat/people/research-faculty/brian-fisher.html,brian_fisher.jpg,"S,I"
-Carman Neustaedter,Professor,SIAT,"steering committee,FCAT dean",http://clab.iat.sfu.ca,carman_neustaedter.jpg,"I,S"
-Chelsea Rosenthal,Assistant Professor,Philosophy,,https://chelsearosenthal.com/,chelsea_rosenthal.jpg,S
+Carman Neustaedter,Professor,SIAT,"steering committee,FCAT dean",http://clab.iat.sfu.ca,carman_neustaedter.jpg,"I,C"
+Chelsea Rosenthal,Assistant Professor,Philosophy,,https://chelsearosenthal.com/,chelsea_rosenthal.jpg,C
 Diane Gromala,Professor,SIAT,,https://painstudieslab.com/,diane_gromala.jpg,A
 Don Estep,Professor,Statistics,,http://www.sfu.ca/~destep/,don_estep.jpg,N
 Edward Park,Professor,MSE,,https://www.sfu.ca/research/facilities/weartech-labs,edward_park.jpg,I
 Eugene Fiume,Professor,CS,FAS dean,https://www.dgp.toronto.edu/~elf/,eugene_fiume.jpg,V
-Frederik Lesage,Associate Professor,CMNS,,https://imaginativemethods.com/,frederik_lesage.jpg,S
+Frederik Lesage,Associate Professor,CMNS,,https://imaginativemethods.com/,frederik_lesage.jpg,C
 Fred Popowich,Professor,CS,,http://www.sfu.ca/~popowich/public/Home.html,fred_popowich.jpg,A
 Ghassan Hamarneh,Professor,CS,,https://www.medicalimageanalysis.com,ghassan_hamarneh.jpg,"V,A"
 Halil Erhan,Professor,SIAT,,https://www.sfu.ca/siat/people/research-faculty/halil-erhan.html,halil_erhan.jpg,"I,V"
@@ -22,9 +22,9 @@ KangKang Yin,Associate Professor,CS,,https://www.cs.sfu.ca/~kkyin/,kangkang_yin.
 Ke Li,Assistant Professor,CS,,https://www.sfu.ca/~keli/,ke_li.jpg,"N,V,A"
 Lawrence Kim,Assistant Professor,CS,,https://www.lhkim.com/,lawrence_kim.jpg,I
 Lesley Shannon,Professor,ENSC,,http://www2.ensc.sfu.ca/~lshannon/,lesley_shannon.jpg,A
-Linyi Li,Assistant Professor,CS,,https://cs.sfu.ca/~linyi,linyi_li.jpg,"N,S"
-Lyn Bartram,Professor,SIAT,,https://www.sfu.ca/~lyn,lyn_bartram.jpg,"I,S"
-Maite Taboada,Professor,Linguistics,steering committee,http://www.sfu.ca/~mtaboada/,maite_taboada.jpg,S
+Linyi Li,Assistant Professor,CS,,https://cs.sfu.ca/~linyi,linyi_li.jpg,"N,C"
+Lyn Bartram,Professor,SIAT,,https://www.sfu.ca/~lyn,lyn_bartram.jpg,"I,C"
+Maite Taboada,Professor,Linguistics,steering committee,http://www.sfu.ca/~mtaboada/,maite_taboada.jpg,C
 Manolis Savva,Assistant Professor,CS,co-director,https://msavva.github.io/,manolis_savva.jpg,"V,N"
 Mark Blair,Associate Professor,Psychology,,https://www.sfu.ca/psychology/about/people/current-faculty/mblair.html,mark_blair.jpg,"A,I"
 Martin Ester,Professor,CS,,https://sites.google.com/view/esterlab,martin_ester.jpg,"N,A"
@@ -33,11 +33,11 @@ Max Libbrecht,Assistant Professor,CS,,http://libbrechtlab.com,max_libbrecht.jpg,
 Michelle Levy,Professor,English,,https://www.sfu.ca/english/people-dir/faculty/michelle-levy.html,michelle_levy.jpg,A
 Mo Chen,Assistant Professor,CS,,https://sfumars.com/mo-chen/,mo_chen.jpg,"N"
 Nicholas Hedley,Professor,Geography,,https://www.sfu.ca/geography/about/our-people/profiles/Nicholas-Hedley.html,nicholas_hedley.jpg,"A,V"
-Nicholas Vincent,Assistant Professor,CS,,https://www.nickmvincent.com/,nick_vincent.jpg,"I,N,S"
+Nicholas Vincent,Assistant Professor,CS,,https://www.nickmvincent.com/,nick_vincent.jpg,"I,N,C"
 Nick Sumner,Associate Professor,CS,,https://www.cs.sfu.ca/~wsumner/,nick_sumner.jpg,"I,A"
 Oliver Schulte,Professor,CS,,http://www.cs.sfu.ca/~oschulte/,oliver_schulte.jpg,"N"
 Ouldooz Baghban Karimi,Lecturer,CS,,https://www.cs.sfu.ca/~oba2/,ouldooz_karimi.jpg,"I,A"
-Ozge Nilay Yalcin,Assistant Professor,SIAT,,https://www.sfu.ca/siat/people/research-faculty/o-nilay-yalcin.html,ozge_yalcin.jpg,"I,S"
+Ozge Nilay Yalcin,Assistant Professor,SIAT,,https://www.sfu.ca/siat/people/research-faculty/o-nilay-yalcin.html,ozge_yalcin.jpg,"I,C"
 Parmit Chilana,Associate Professor,CS,co-director,https://ixlab.cs.sfu.ca/,parmit_chilana.jpg,"I,N"
 Parvaneh Saeedi,Associate Professor,ENSC,,http://www2.ensc.sfu.ca/~psaeedi/,parvaneh_saeedi.jpg,V
 Paul Tupper,Professor,Mathematics,,https://www.sfu.ca/~pft3/,paul_tupper.jpg,"N"
@@ -49,14 +49,14 @@ Saba Alimadadi,Assistant Professor,CS,,http://www.sfu.ca/~saba/,saba_alimadadi.j
 Sharan Vaswani,Assistant Professor,CS,,https://vaswanis.github.io/,sharan_vaswani.jpg,"N"
 Sheelagh Carpendale,Professor,CS,steering committee,https://www.cs.sfu.ca/~sheelagh/,sheelagh_carpendale.jpg,I
 Siqi Zhou,Assistant Professor,CS,,http://www.siqizhou.com/,siqi_zhou.jpg,"N,A"
-Steve DiPaola,Professor,SIAT,,http://ivizlab.sfu.ca,steve_dipaola.jpg,"V,I,S"
+Steve DiPaola,Professor,SIAT,,http://ivizlab.sfu.ca,steve_dipaola.jpg,"V,I,C"
 Steven Y. Ko,Associate Professor,CS,,https://steveyko.github.io/,steve_ko.jpg,"I,A"
-Steven Weldon,Professor,Political Science,,http://www.sfu.ca/~sweldon/,steven_weldon.jpg,S
-Sze Yiu Chau,Associate Professor,CS,,https://szeyiuchau.github.io/,szeyiu_chau.jpg,"I,S"
-Tenzin Doleck,Assistant Professor,Education,,https://www.sfu.ca/education/faculty-research/faculty-directory/faculty-members/tdoleck.html,tenzin_doleck.jpg,"I,S"
+Steven Weldon,Professor,Political Science,,http://www.sfu.ca/~sweldon/,steven_weldon.jpg,C
+Sze Yiu Chau,Associate Professor,CS,,https://szeyiuchau.github.io/,szeyiu_chau.jpg,"I,C"
+Tenzin Doleck,Assistant Professor,Education,,https://www.sfu.ca/education/faculty-research/faculty-directory/faculty-members/tdoleck.html,tenzin_doleck.jpg,"I,C"
 Terri Griffith,Professor,Beedie,,https://terrigriffith.com/,terri_griffith.jpg,"I,A"
-Wendy Chun,Professor,CMNS,,https://digitaldemocracies.org/,wendy_chun.jpg,"V,I,S"
-Will Odom,Assistant Professor,SIAT,,https://willodom.com/portfolio/,will_odom.jpg,"I,S"
+Wendy Chun,Professor,CMNS,,https://digitaldemocracies.org/,wendy_chun.jpg,"V,I,C"
+Will Odom,Assistant Professor,SIAT,,https://willodom.com/portfolio/,will_odom.jpg,"I,C"
 Woo Soo Kim,Associate Professor,MSE,,http://www.sfu.ca/~woosook/About_PI.html,woo_soo_kim.jpg,I
 Wolfgang Stuerzlinger,Professor,SIAT,,https://vvise.iat.sfu.ca,wolfgang_stuerzlinger.jpg,I
 Wuyang Chen,Assistant Professor,CS,,https://delta-lab-ai.github.io/,wuyang_chen.jpg,"N,V,A"
